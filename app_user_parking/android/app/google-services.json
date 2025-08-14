@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804873166790",
+    "firebase_url": "https://parking-gestion-urbana-default-rtdb.firebaseio.com",
+    "project_id": "parking-gestion-urbana",
+    "storage_bucket": "parking-gestion-urbana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804873166790:android:62af92dbfb3b3ac19c1cc7",
+        "android_client_info": {
+          "package_name": "com.example.app_user_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804873166790-c7nl7efh5bc54n405fphd5qr4gu0g0sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvP0K_v2a_Sbo3NWSmMS1CQn7x9qj75s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804873166790-c7nl7efh5bc54n405fphd5qr4gu0g0sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
